@@ -39,4 +39,14 @@ body{
 #main-nav ul li a:hover{
 	background: cyan;
 }
+.clr{
+	clear: both;
+}
+#body1{
+	background-color: #fff;
+	min-height: 500px;
+}
+#left-body1{
+	width: 50%;
+}
 
